@@ -4,3 +4,4 @@ git+https://github.com/HathorNetwork/hathor-core.git@nano-tutorials
 
 # Testing utilities for notebooks
 ipytest
+pytest-xdist
