@@ -10,7 +10,7 @@ The tutorials use the Hathor nanocontracts framework to teach you how to build, 
 
 Tutorials in this directory:
 
-- **[Blueprint.ipynb](Blueprint.ipynb)** - Creating a Hathor blueprint with the HathorDice game example
+- **[Blueprint.ipynb](notebooks/01-blueprint-basics/Blueprint.ipynb)** - Creating a Hathor blueprint with the HathorDice game example
   - Understand what blueprints are and how they work
   - Learn the `initialize()` method (the contract constructor)
   - Work with deposits and withdrawals using `NCDepositAction` and `NCWithdrawalAction`
