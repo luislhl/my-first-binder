@@ -29,7 +29,7 @@ Before starting these tutorials, ensure you have:
 
 - **Python 3.11+** installed
 - **Jupyter notebook** environment set up
-- **Hathor development environment** configured (see [docs/developing.md](../docs/developing.md))
+- **Hathor development environment** configured (see [https://github.com/HathorNetwork/hathor-core/blob/master/docs/developing.md](https://github.com/HathorNetwork/hathor-core/blob/master/docs/developing.md))
 - Basic understanding of Python programming
 - Familiarity with blockchain concepts (transactions, tokens, smart contracts)
 
@@ -76,8 +76,8 @@ If you're new to Hathor nanocontracts, we recommend:
 
 - [Hathor Documentation](https://docs.hathor.network/)
 - [Hathor Network Website](https://hathor.network/)
-- [Hathor Core Development Guide](../docs/developing.md)
-- [Hathor Core Debugging Guide](../docs/debugging.md)
+- [Hathor Core Development Guide](https://github.com/HathorNetwork/hathor-core/blob/master/docs/developing.md)
+- [Hathor Core Debugging Guide](https://github.com/HathorNetwork/hathor-core/blob/master/docs/debugging.md)
 
 ## Contributing
 
