@@ -1,0 +1,5 @@
+# Hathor core library for nanocontract development
+git+https://github.com/HathorNetwork/hathor-core.git
+
+# Testing utilities for notebooks
+ipytest
